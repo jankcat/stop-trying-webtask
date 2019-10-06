@@ -1,0 +1,11 @@
+{
+  "name": "mocking-sponge-webtask",
+  "version": "1.0.0",
+  "description": "WhAt Do YoU wAnT yOuR dEsCrIpTiOn To Be?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Watkins",
+  "license": "MIT"
+}
